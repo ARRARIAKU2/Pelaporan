@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8e8888;
+      }
+
+      .cls-2 {
+        filter: url(#Icon_material-message);
+      }
+    </style>
+    <filter id="Icon_material-message" x="0" y="0" width="60" height="60" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-2" transform="matrix(1, 0, 0, 1, 0, 0)">
+    <path id="Icon_material-message-2" data-name="Icon material-message" class="cls-1" d="M30,3H6A3,3,0,0,0,3.015,6L3,33l6-6H30a3.009,3.009,0,0,0,3-3V6A3.009,3.009,0,0,0,30,3ZM27,21H9V18H27Zm0-4.5H9v-3H27ZM27,12H9V9H27Z" transform="translate(12 12)"/>
+  </g>
+</svg>

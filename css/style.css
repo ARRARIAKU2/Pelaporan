@@ -1,0 +1,558 @@
+#Header-TokoMusi {
+    background-color: white;
+    box-shadow: 0px 4px 99px #00000029;
+}
+
+#Header-TokoMusi .TokoMusi {
+    width: 100%;
+    height: auto;
+}
+
+#Header-TokoMusi .form-control {
+    border-radius: 10px;
+    width: 819px;
+    font-family: sans-serif;
+}
+
+#Header-TokoMusi .Basket {
+    width: 100%;
+    height: auto;
+}
+
+#Header-TokoMusi .Bell {
+    width: 90%;
+    height: auto;
+}
+
+#Header-TokoMusi .Message {
+    width: 100%;
+    height: auto;
+}
+
+#Header-TokoMusi .btn-warning {
+    color: white;
+    font-family: sans-serif;
+    background-color: #BFC640;
+    border-color: #BFC640;
+    Border-radius: 10px;
+    font-size: 10px;
+}
+
+#Header-TokoMusi .btn-outline-warning {
+    color: #BFC640;
+    font-family: sans-serif;
+    font-size: 10px;
+    border-color: #BFC640;
+    Border-radius: 10px;
+}
+
+
+#Banner-TokoMusi .banner {
+    width: auto;
+    height: 100;
+
+    opacity: 1;
+}
+
+#Banner-TokoMusi .bgbanner {
+
+    padding: 10px;
+}
+
+#Banner-TokoMusi .fa-arrow-alt-circle-left {
+    font-size: 30px;
+}
+
+#Banner-TokoMusi .fa-arrow-alt-circle-right {
+    font-size: 30px;
+}
+
+#Banner-TokoMusi .carousel-indicators li {
+    box-sizing: content-box;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #fff;
+    background-clip: padding-box;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    opacity: .5;
+    transition: opacity 0.6s ease;
+}
+
+#Banner-TokoMusi .carousel-indicators .active {
+    opacity: 1;
+  }
+  
+.custome-line {
+    border-color: #263238;
+    border-width: 2px;
+    max-width: 25%;
+}
+
+#BeritaTerbaru .bg-kategori {
+    width: auto;
+    height: 100%;
+    background-color: #F6F6F6;
+}
+
+#BeritaTerbaru h4 {
+    font-family: sans-serif;
+    color: #707070;
+}
+
+#BeritaTerbaru span {
+    color: #8FD470;
+}
+
+#BeritaTerbaru h5 {
+    font-family: sans-serif;
+}
+#BeritaTerbaru .card {
+    font-family: sans-serif;
+    background-color: white;
+    border-radius: 15px;
+    margin: 10px;
+    box-shadow: 0px 3px 6px #00000029;
+    margin-top: 20px;
+}
+
+#BeritaTerbaru .img-fluid {
+    width: 100%;
+    height: 100%;
+    border-radius: 15px 15px 15px 15px;
+}
+
+#ProdukTerlaris .card-terlaris {
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 15px 15px 15px 15px;
+}
+
+#ProdukTerlaris h4 {
+    font-family: sans-serif;
+    color: #707070;
+}
+
+#ProdukTerlaris span {
+    color: #8FD470;
+}
+
+#FlashSale h4 {
+    font-family: sans-serif;
+    color: #707070;
+}
+
+#FlashSale span {
+    color: #8FD470;
+}
+
+#FlashSale .card-flashsale {
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 15px 15px 15px 15px;
+}
+
+#SpesialPromo h4 {
+    font-family: sans-serif;
+    color: #707070;
+}
+
+#SpesialPromo span {
+    color: #8FD470;
+}
+
+#SpesialPromo .promo1 {
+    width: 100%;
+    height: 251px;
+    object-fit: cover;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 20px;
+    opacity: 1;
+}
+
+#Footer .bg-footer {
+    margin-top: 50px;
+    padding-top: 30px;
+}
+
+#Footer li {
+    list-style: none;
+}
+
+#Footer .bg-footer {
+    background-color: #F6F6F6;
+}
+
+#Footer .casio {
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+}
+
+#Footer .tokomusi {
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+}
+
+#Footer .playstore {
+    width: 100%;
+    height: auto;
+}
+
+#Footer .appstore {
+    width: 100%;
+    height: auto;
+}
+
+#Footer .footer {
+    width: 100%;
+    height: auto;
+}
+
+#ListProduk .home {
+    color: #707070;
+    text-decoration: none;
+}
+
+#ListProduk .home:hover {
+    color: #8FD470;
+    text-decoration: none;
+}
+
+#ListProduk .homeh6 {
+    font-family: sans-serif;
+    font-size: 100%;
+    color: #707070;
+    text-decoration: none;
+}
+
+#ListProduk .homespan {
+    color: #8FD470;
+}
+
+#ListProduk .card-list {
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 15px 15px 15px 15px;
+}
+
+#ListProduk .produk {
+    font-family: sans-serif;
+    text-decoration: none;
+    color: #707070;
+}
+
+#ListProduk .namabarang {
+    font-size: 85%;
+}
+
+#ListProduk .harga {
+    font-size: 85%;
+    color: #000000;
+    font-weight: bold;
+}
+
+#ListProduk .lokasi {
+    width: 20px;
+    height: auto;
+}
+
+#ListProduk .bintang {
+    width: 25px;
+    height: auto;
+}
+
+#ListProduk span {
+    font-size: 85%;
+}
+
+#DetailProduk .detailh6 {
+    font-family: sans-serif;
+    color: #707070;
+}
+
+#DetailProduk .produkspan {
+    color: #8FD470;
+}
+
+#DetailProduk .home {
+    color: #707070;
+    text-decoration: none;
+}
+
+#DetailProduk .home:hover {
+    color: #8FD470;
+    text-decoration: none;
+}
+
+#DetailProduk .namaproduk {
+    font-family: sans-serif;
+    color: #707070;
+    font-weight: bold;
+}
+
+#DetailProduk .harga {
+    padding-top: 10px;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+#DetailProduk .fa-minus-square {
+    padding-top: 10px;
+    color: #707070;
+    font-size: 30px;
+}
+
+#DetailProduk .nomor {
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 30px;
+}
+
+#DetailProduk .fa-plus-square {
+    color: #8FD470;
+    font-size: 30px;
+}
+
+#DetailProduk .stock {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #707070;
+}
+
+#DetailProduk .stockspan {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#DetailProduk .btn-warning {
+    color: white;
+    font-family: sans-serif;
+    background-color: #BFC640;
+    border-color: #BFC640;
+    Border-radius: 10px;
+    font-size: 20px;
+}
+
+#DetailProduk .btn-outline-warning {
+    color: #BFC640;
+    font-family: sans-serif;
+    font-size: 20px;
+    border-color: #BFC640;
+    Border-radius: 10px;
+}
+
+#DetailProduk .bg-detailproduk {
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #F6F6F6;
+    width: 100%;
+    height: auto;
+}
+
+#DetailProduk .detail {
+    font-family: sans-serif;
+    color: #707070;
+}
+
+#DetailProduk .detailprodukspan {
+    color: #BFC640;
+}
+
+#DetailProduk .bg-deskripsiproduk {
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #F6F6F6;
+    width: 100%;
+    height: auto;
+}
+
+#DetailProduk .deskripsi {
+    font-family: sans-serif;
+    color: #707070;
+}
+
+#DetailProduk .deskripsiprodukspan {
+    color: #BFC640;
+}
+
+#DetailProduk .table {
+    font-family: sans-serif;
+}
+
+#DetailProduk .ulasan {
+    font-family: sans-serif;
+    color: #707070;
+}
+
+#DetailProduk .ulasanprodukspan {
+    color: #BFC640;
+}
+
+#DetailProduk .bg-ulasan {
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #F6F6F6;
+    width: 100%;
+    height: auto;
+}
+
+#DetailProduk .review {
+    width: 70px;
+    height: 70px;
+    border-radius: 50px
+}
+
+#DetailProduk .fa-star {
+    color: yellow;
+}
+
+#DetailProduk .spromo {
+    font-family: sans-serif;
+    color: #707070;
+}
+
+#DetailProduk .spromospan {
+    color: #BFC640;
+}
+
+#DetailProduk .bg-spesialpromo {
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #F6F6F6;
+    width: 100%;
+    height: auto;
+}
+
+#Keranjang {
+    font-family: sans-serif;
+}
+
+#Keranjang .alamat {
+    margin-top: 50px;
+}
+
+#Keranjang .alamat .form-control {
+    border-radius: 15px;
+}
+
+#Keranjang .keranjangh6 {
+    font-family: sans-serif;
+    color: #707070;
+}
+
+#Keranjang .home {
+    color: #707070;
+    text-decoration: none;
+}
+
+#Keranjang .home:hover {
+    color: #8FD470;
+    text-decoration: none;
+}
+
+#Keranjang .keranjangspan {
+    color: #BFC640;
+}
+
+#Keranjang .krj {
+    font-family: sans-serif;
+    color: #707070;
+}
+
+#Keranjang .card-keranjang {
+    box-shadow: 0px 3px 6px #00000029;
+    height: auto;
+    width: 100%;
+}
+
+#Keranjang .bg-ringkasan {
+    font-family: sans-serif;
+    color: #707070;
+    box-shadow: 0px 3px 6px #00000029;
+    height: auto;
+    width: 100%;
+}
+
+#Keranjang .btn-warning {
+    color: white;
+    border-radius: 15px;
+    background-color: #BFC640;
+}
+
+#metodepembayaran .metode {
+    font-family: sans-serif;
+    color: #707070;
+}
+
+#metodepembayaran .batas {
+    font-family: sans-serif;
+    background-color: white;
+    border-radius: 10px;
+}
+
+#metodepembayaran .card {
+    background-color: white;
+    color: #707070;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0px 3px 6px #00000029;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#metodepembayaran .btn-warning {
+    margin-top: 20px;
+    font-family: sans-serif;
+    font-size: 25px;
+    color: white;
+    background-color:#BFC640;
+    border-radius: 15px;
+}
+
+#metodepembayaran .btn-outline-warning {
+    font-family: sans-serif;
+    border-radius: 15px;
+    color:#BFC640;
+    border-color: #BFC640;
+}
+
+#Login .card-login {
+    font-family: sans-serif;
+    background-color: white;
+    border-radius: 15px;
+    margin: 10px;
+    box-shadow: 0px 3px 6px #00000029;
+    margin-top: 50px;
+}
+
+#Login .form-control {
+    border-radius: 15px;
+}
+
+#Login .btn-warning {
+    color: white;
+    background-color: #bfc640;
+
+}
+
+#Login .masuk a {
+    color: #707070;
+    text-decoration: none;
+}
+
+#Login .daftar a {
+    color:#BFC640;
+    text-decoration: none;
+}

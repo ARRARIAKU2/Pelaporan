@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="67.781" height="67.781" viewBox="0 0 67.781 67.781">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8e8888;
+      }
+
+      .cls-2 {
+        filter: url(#Icon_awesome-shopping-basket);
+      }
+    </style>
+    <filter id="Icon_awesome-shopping-basket" x="0" y="0" width="67.781" height="67.781" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-2" transform="matrix(1, 0, 0, 1, 0, 0)">
+    <path id="Icon_awesome-shopping-basket-2" data-name="Icon awesome-shopping-basket" class="cls-1" d="M37.781,17.767v1.349a1.842,1.842,0,0,1-1.574,2.024h-.525L33.969,36.555c-.222,1.994-1.55,3.475-3.117,3.475H6.928c-1.567,0-2.9-1.481-3.117-3.475L2.1,21.14H1.574A1.842,1.842,0,0,1,0,19.116V17.767a1.842,1.842,0,0,1,1.574-2.024H5.991L13,3.361a1.818,1.818,0,0,1,2.932-.6,3.226,3.226,0,0,1,.463,3.77l-5.208,9.207H26.6L21.391,6.536a3.226,3.226,0,0,1,.463-3.77,1.818,1.818,0,0,1,2.932.6l7,12.382h4.417A1.842,1.842,0,0,1,37.781,17.767ZM20.465,32.61V23.164a1.842,1.842,0,0,0-1.574-2.024,1.842,1.842,0,0,0-1.574,2.024V32.61a1.842,1.842,0,0,0,1.574,2.024A1.842,1.842,0,0,0,20.465,32.61Zm7.346,0V23.164a1.842,1.842,0,0,0-1.574-2.024,1.842,1.842,0,0,0-1.574,2.024V32.61a1.842,1.842,0,0,0,1.574,2.024A1.842,1.842,0,0,0,27.811,32.61Zm-14.693,0V23.164a1.842,1.842,0,0,0-1.574-2.024A1.842,1.842,0,0,0,9.97,23.164V32.61a1.842,1.842,0,0,0,1.574,2.024A1.842,1.842,0,0,0,13.118,32.61Z" transform="translate(15 12.75)"/>
+  </g>
+</svg>
